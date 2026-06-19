@@ -70,21 +70,21 @@ Currently exploring System Design, Distributed Systems, and Cloud Technologies.
 
 ## 📌 Featured Projects
 
-### 💬 Chatify
+### 💬 Chatify – Real-Time Chat Application
 
-Real-time chat application built using React, Node.js, MongoDB, Express.js, and Socket.IO.
+Built a real-time messaging platform using React, Node.js, Express.js, MongoDB, and Socket.IO with authentication, online user status, profile management, and instant messaging.
+
+### 🎓 Student Management System
+
+Developed a student management application for handling student records, course details, attendance, and academic information with secure CRUD operations and database integration.
 
 ### 🛒 E-Commerce Platform
 
-Full-stack e-commerce application with authentication, product management, and responsive UI.
+Full-stack e-commerce application featuring user authentication, product catalog management, shopping cart functionality, and responsive user experience.
 
-### 🔗 URL Shortener
+### 🔐 Image Steganography System
 
-Scalable URL shortening service with analytics and tracking.
-
-### 🚦 Rate Limiter
-
-Implementation of Token Bucket and Sliding Window algorithms for API protection.
+Built a secure steganography application capable of hiding and extracting confidential messages inside images using image processing techniques and encryption concepts.
 
 ---
 
@@ -101,6 +101,18 @@ Implementation of Token Bucket and Sliding Window algorithms for API protection.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anif001&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+[![Anif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anif001\&theme=tokyo-night)](https://github.com/anif001)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=anif001\&theme=tokyonight\&margin-w=15\&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
