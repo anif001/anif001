@@ -70,10 +70,6 @@ Currently exploring System Design, Distributed Systems, and Cloud Technologies.
 
 ## 📌 Featured Projects
 
-### 💬 Chatify – Real-Time Chat Application
-
-Built a real-time messaging platform using React, Node.js, Express.js, MongoDB, and Socket.IO with authentication, online user status, profile management, and instant messaging.
-
 ### 🎓 Student Management System
 
 Developed a student management application for handling student records, course details, attendance, and academic information with secure CRUD operations and database integration.
@@ -107,12 +103,6 @@ Built a secure steganography application capable of hiding and extracting confid
 ## 📈 GitHub Activity Graph
 
 [![Anif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anif001\&theme=tokyo-night)](https://github.com/anif001)
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=anif001\&theme=tokyonight\&margin-w=15\&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
