@@ -9,13 +9,13 @@ Currently exploring System Design, Distributed Systems, and Cloud Technologies.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-* 🎓 B.Tech Computer Science Student
-* 💻 Building backend systems using Java & Spring Boot
-* 🌱 Currently learning System Design, Distributed Systems, and Microservices
-* 🔍 Interested in Backend Engineering and Scalable Software Development
-* ⚡ Strong focus on problem-solving and real-world project implementation
+*  B.Tech Computer Science Student
+*  Building backend systems using Java & Spring Boot
+*  Currently learning System Design, Distributed Systems, and Microservices
+*  Interested in Backend Engineering and Scalable Software Development
+*  Strong focus on problem-solving and real-world project implementation
 
 ---
 
