@@ -72,7 +72,7 @@ Currently exploring System Design, Distributed Systems, and Cloud Technologies.
 
 ### 🎓 Student Management System
 
-Developed a student management application for handling student records, course details, attendance, and academic information with secure CRUD operations and database integration.
+Developed a student management application for handling student records, attendance, course details, and academic information with secure CRUD operations and database integration.
 
 ### 🛒 E-Commerce Platform
 
@@ -100,9 +100,9 @@ Built a secure steganography application capable of hiding and extracting confid
 
 ---
 
-## 📈 GitHub Activity Graph
+## 📈 Contribution Activity
 
-[![Anif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anif001\&theme=tokyo-night)](https://github.com/anif001)
+[![Anif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anif001\&bg_color=1a1b27\&color=70a5fd\&line=38bdae\&point=ffffff\&area=true\&hide_border=true)](https://github.com/anif001)
 
 ---
 
