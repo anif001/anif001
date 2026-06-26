@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shaik Anif</h1>
+<h1 align="center">Hi... I'm Shaik Anif</h1>
 
 <h3 align="center">Java Backend Developer | Spring Boot | System Design</h3>
 
